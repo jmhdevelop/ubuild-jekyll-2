@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Prueb
 date: 
 page_sections:
 - template: navigation-header
