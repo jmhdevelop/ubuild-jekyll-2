@@ -7,5 +7,8 @@ page_sections:
   block: header-1
   logo: ''
   navigation: []
+- template: simple-header
+  block: header-3
+  logo: ''
 
 ---
